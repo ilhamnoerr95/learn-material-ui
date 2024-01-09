@@ -54,7 +54,7 @@ const muiButton = () => {
 					endIcon={<Battery5BarIcon />}
 					disableElevation
 				>
-					Batteries
+					Batteriess
 				</Button>
 				<IconButton aria-label="batteries" color="warning" size="small">
 					<Battery5BarIcon />
